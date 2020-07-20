@@ -1,0 +1,22 @@
+Day 1 - Assignment
+
+Q1. What is Python? What are the ways to install python on your PC?
+
+Python is an open source, interpreted, object-oriented, high-level programming language with dynamic semantics. Python's simple, easy to learn syntax emphasizes readability and therefore reduces the cost of program maintenance.
+
+Python is developed by Guido Van Rossum in 1991.
+
+Ways to install python
+- Anaconda navigator
+-pycharm
+-python installer
+
+2. What are code environments and Types of code environments?
+
+Code Environment is a place where you can write down the program, compile the code and see the output of code at same place.
+
+Types of Code Environments:
+
+1. Text Editors eg: Notepad, Visual Studio Code
+2. Full IDEs eg: Spyder, Pycharm
+3. Notebook Environments eg: Jupyter notebook, Google Colab
